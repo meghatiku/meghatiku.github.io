@@ -1,0 +1,70 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Megha Tiku
+title: Backend Developer
+email: megha.tiku@gmail.com
+website: www.meghatiku.github.io
+
+# Social links
+github_username:  meghatiku
+linkedin_username: meghatiku
+
+# About Section
+# about_title: About Me
+about_profile_image: images/megha.jpeg
+about_content: |
+  Hi! My name is Megha and I'm currently working as a backend developer at Shuttl.🚌
+  Besides making *scalable* software and web applications, I like fixing bugs 🐞 and solving consumer problems.
+  I love working in a team be it remote or onsite or as an individual contributer.
+
+  I am most skilled in `Python` 🐍  and `SQL`. In my day to day development work I frequently make
+  use of `Docker`, `Bash`, `Athena` , `DataDog`and recently `Vim` for editing. I am trying to completely switch from `Pycharm` to `Vim` but that might take more time!
+
+  I love data 📈 📊 visualizations `D3.js` 💙 and my target for 2020 is to learn a new language 📆
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: |
+  Alongside my interests in software engineering and reading fiction some of my other hobbies are:
+   - Solving Crosswords
+   - 🔪 Experimenting with food
+   - Kpop 💖 *Saranghe Oppa*
+   - Calligraphy
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+#sass:
+#  sass_dir: _sass
+#  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

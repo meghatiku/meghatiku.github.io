@@ -1,0 +1,26 @@
+- layout: left
+  company: Shuttl
+  link: https://ride.shuttl.com/
+  job_title: Backend Developer
+  dates: September 2018 - Present
+  quote: >
+   Stress-free Commute to Work, Affordable AC bus-rides everyday
+  description:
+    When I joined Shuttl, I was part of the team that re-wrote the entire application from scratch in python. Presently, I am part of the `Platform
+     Team` that works on core functionality of the application ie `trip management`, `bookings`, `reservations`, `ETA` etc. We follow continuous deployment so it is fun to get
+    instant customer feedback on code that is shipped to production almost daily!
+
+
+- layout: left
+  company: UnitedHealth Group (Optum)
+  link: https://www.optum.com/
+  job_title: Senior Software Developer
+  dates: July 2015 - August 2018
+  quote: >
+    The largest healthcare company in the world by revenue, with 2018 revenue of $226.2 billion and 115 million customers
+  description: |
+    I joined UHG fresh out of college and worked with mutiple teams in the organisation. Most of my work was involved with `processing` large amount of patient claims information, finding
+    patterns for better diagnosis and `preventing fraudulant claims`. I frequently interacted with `clients` and stake holders across the globe worked with other developers from remote locations.
+    At UHG, I learnt `leadership` skills, `teamwork` and time and work `management` that have proven immensely useful in my entire career.
+
+
